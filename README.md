@@ -1,3 +1,4 @@
+<link rel="stylesheet" type="text/css" href="styles.css">
 ### Hi there 👋
 
 <h1>My name is Aleksander Trujillo</h1>
