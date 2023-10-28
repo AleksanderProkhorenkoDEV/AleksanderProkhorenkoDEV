@@ -1,6 +1,6 @@
-<link rel="stylesheet" type="text/css" href="styles.css">
-### Hi there 👋
 
+### Hi there 👋
+<link rel="stylesheet" type="text/css" href="style.css">
 <h1>My name is Aleksander Trujillo</h1>
 
 <p>
