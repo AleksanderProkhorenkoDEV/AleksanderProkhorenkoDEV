@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Aleksander</h1>
 <h3 align="center">I am a student of Web Application Development. Currently in second grade and I will gradually upload the projects I am doing.</h3>
 
-- 🔭 I’m currently working on [Wordpress](https://atrupro202.ieszaidinvergeles.es/wp2023/)
+- 🔭 I’m currently working on Wordpress
 
 - 🌱 I’m currently learning **Laravel**
 
