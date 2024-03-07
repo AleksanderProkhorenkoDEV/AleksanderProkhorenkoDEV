@@ -71,8 +71,3 @@
 
 <br/>   
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=aleksanderprokhorenkodev&show_icons=true&locale=en&layout=compact" alt="aleksanderprokhorenkodev" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=aleksanderprokhorenkodev&show_icons=true&locale=en" alt="aleksanderprokhorenkodev" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aleksanderprokhorenkodev&" alt="aleksanderprokhorenkodev" /></p>
