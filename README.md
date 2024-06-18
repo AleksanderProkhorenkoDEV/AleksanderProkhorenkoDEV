@@ -22,7 +22,7 @@
       <div align="center">
         <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank"><img style="margin: 10px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" height="50" /></a>
         <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank"><img style="margin: 10px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" height="50" /></a>
-        <a href="https://tailwindcss.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/tailwindcss.png" alt="Tailwind CSS" height="50" /></a>
+        <a href="https://tailwindcss.com/" target="_blank"><img style="margin: 10px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-plain.svg" alt="Tailwind CSS" height="50" /></a>
         <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img style="margin: 10px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" height="50" /></a>
         <a href="https://jquery.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/jquery.png" alt="jQuery" height="50" /></a>
         <a href="https://reactjs.org/" target="_blank"><img style="margin: 10px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" height="50" /></a>
@@ -44,7 +44,7 @@
       <h3 align="center">DevOps</h3>
       <div align="center">
         <a href="https://www.linux.org/" target="_blank"><img style="margin: 10px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" height="50" /></a>
-        <a href="https://devilbox.readthedocs.io/en/latest/" target="_blank"><img style="margin: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg" alt="Devilbox" height="50" /></a>
+        <a href="https://devilbox.readthedocs.io/en/latest/" target="_blank"><img style="margin: 10px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="Devilbox" height="50" /></a>
       </div>
     </td>
     <td valign="top" width="25%">
@@ -58,7 +58,7 @@
     <td valign="top" colspan="4">
       <h3 align="center">Tools</h3>
       <div align="center">
-        <a href="https://www.figma.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/figma.png" alt="Figma" height="50" /></a>
+        <a href="https://www.figma.com/" target="_blank"><img style="margin: 10px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg" alt="Figma" height="50" /></a>
         <a href="https://www.atlassian.com/software/jira" target="_blank"><img style="margin: 10px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jira/jira-original-wordmark.svg" alt="Jira" height="50" /></a>
         <a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original-wordmark.svg" alt="GitHub" height="50" /></a>
         <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/adobe_illustrator-icon.svg" alt="Illustrator" height="50" /></a>
@@ -66,6 +66,7 @@
     </td>
   </tr>
 </table>
+
 
 <br/>   
 
