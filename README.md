@@ -22,11 +22,12 @@
       <div align="center">
         <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank"><img style="margin: 10px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" height="50" /></a>
         <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank"><img style="margin: 10px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" height="50" /></a>
-        <a href="https://tailwindcss.com/" target="_blank"><img style="margin: 10px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-plain.svg" alt="Tailwind CSS" height="50" /></a>
+        <a href="https://tailwindcss.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/></a>
         <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img style="margin: 10px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" height="50" /></a>
         <a href="https://jquery.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/jquery.png" alt="jQuery" height="50" /></a>
         <a href="https://reactjs.org/" target="_blank"><img style="margin: 10px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" height="50" /></a>
-        <a href="https://nextjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nextjs.png" alt="Next.js" height="50" /></a>
+        <a href="https://nextjs.org/" target="_blank"><img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/></a>
+        <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a>
       </div>
     </td>
     <td valign="top" width="25%">
