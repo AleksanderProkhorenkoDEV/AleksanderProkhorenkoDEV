@@ -44,7 +44,7 @@
       <h3 align="center">DevOps</h3>
       <div align="center">
         <a href="https://www.linux.org/" target="_blank"><img style="margin: 10px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" height="50" /></a>
-        <a href="https://devilbox.readthedocs.io/en/latest/" target="_blank"><img style="margin: 10px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="Devilbox" height="50" /></a>
+        <a href="https://devilbox.readthedocs.io/en/latest/" target="_blank"><img style="margin: 10px" src="https://cdn.jsdelivr.net/gh/the-devilbox/docker-php-fpm@master/icons/devilbox.svg" alt="Devilbox" height="50" /></a>
       </div>
     </td>
     <td valign="top" width="25%">
@@ -61,11 +61,13 @@
         <a href="https://www.figma.com/" target="_blank"><img style="margin: 10px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg" alt="Figma" height="50" /></a>
         <a href="https://www.atlassian.com/software/jira" target="_blank"><img style="margin: 10px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jira/jira-original-wordmark.svg" alt="Jira" height="50" /></a>
         <a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original-wordmark.svg" alt="GitHub" height="50" /></a>
+        <a href="https://git-scm.com/" target="_blank"><img style="margin: 10px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" height="50" /></a>
         <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/adobe_illustrator-icon.svg" alt="Illustrator" height="50" /></a>
       </div>
     </td>
   </tr>
 </table>
+
 
 
 <br/>   
