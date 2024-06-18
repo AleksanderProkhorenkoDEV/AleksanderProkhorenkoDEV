@@ -44,7 +44,7 @@
       <h3 align="center">DevOps</h3>
       <div align="center">
         <a href="https://www.linux.org/" target="_blank"><img style="margin: 10px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" height="50" /></a>
-        <a href="https://devilbox.readthedocs.io/en/latest/" target="_blank"><img style="margin: 10px" src="https://cdn.jsdelivr.net/gh/the-devilbox/docker-php-fpm@master/icons/devilbox.svg" alt="Devilbox" height="50" /></a>
+        <a href="https://devilbox.readthedocs.io/en/latest/" target="_blank"><img style="margin: 10px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="Devilbox" height="50" /></a>
       </div>
     </td>
     <td valign="top" width="25%">
