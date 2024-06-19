@@ -9,10 +9,11 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-  <a href="https://linkedin.com/in/aleksander%20trujillo" target="_blank">
+  <a href="https://www.linkedin.com/in/aleksander-trujillo-90a066299/" target="_blank">
     <img src="https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
 </p>
+
 
 ## My Skill Set  
 <table>
