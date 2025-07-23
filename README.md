@@ -28,5 +28,5 @@ Emperie Nails Telegram Bot -> [See repository](https://github.com/AleksanderProk
 # What am I studying?
 
 ▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰░░░  75% Clean architecture  
-▰▰▰▰▰▰▰▰▰▰▰▰▰░░░░░░░░░░░░░░  55% Node js   
-░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░  0% Factory pattern
+▰▰▰▰▰▰▰▰▰▰▰▰▰░░░  55% Node js   
+▰░░  10% Factory pattern
