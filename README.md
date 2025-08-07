@@ -5,9 +5,9 @@
 
 ```typescript
 interface Developer {
-  nivel: "Junior";
-  superpoder: "InfinityCuriosity";
-  stackFavorito: string["Laravel", "React", "PostgreSQL"];
+  level: "Junior";
+  Superpower: "InfinityCuriosity";
+  FavouriteStack: string["Laravel", "React", "PostgreSQL"];
   meta: "AprenderConstruyendo";
 }
 ```
@@ -28,6 +28,6 @@ Emperie Nails Telegram Bot -> [See repository](https://github.com/AleksanderProk
 # What am I studying?
 
 ▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰░░░  75% Clean architecture  
-▰▰▰▰▰▰▰▰▰▰▰▰▰▰░░░  65% Node js   
+▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰░░░  75% Node js   
 ░░  0% Abstrac Factory pattern  
-▰▰▰▰▰▰▰▰▰░░░  40% Jest   
+▰▰▰▰▰▰▰▰▰▰▰▰▰▰░░░  60% Jest   
