@@ -14,6 +14,7 @@ interface Developer {
 # 🚀 Most recent project
 
 Emperie Nails Telegram Bot -> [See repository](https://github.com/AleksanderProkhorenkoDEV/Emperie-ClassBot)
+Productivity Dashboard -> [See repository](https://github.com/AleksanderProkhorenkoDEV/lit-productivity-dashboard) [demo](https://productivity-dashboard-six-eta.vercel.app/)
 
 # With what job?
 
