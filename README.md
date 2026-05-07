@@ -15,21 +15,12 @@ interface Developer {
 
 Emperie Nails Telegram Bot -> [See repository](https://github.com/AleksanderProkhorenkoDEV/Emperie-ClassBot) <br/>
 Productivity Dashboard -> [See repository](https://github.com/AleksanderProkhorenkoDEV/lit-productivity-dashboard) [demo](https://productivity-dashboard-six-eta.vercel.app/) <br/>
-Finance dashboard -> [See repository](https://github.com/AleksanderProkhorenkoDEV/cells-finance-dashboard) [demo](https://finance-dashboard-three-kohl-84.vercel.app/)
+Finance dashboard -> [See repository](https://github.com/AleksanderProkhorenkoDEV/cells-finance-dashboard) [demo](https://finance-dashboard-three-kohl-84.vercel.app/) <br/>
+Bankleks -> [see repository](https://github.com/AleksanderProkhorenkoDEV/Bankleks) [demo](https://bankleks.vercel.app/signIn)
 
-# With what job?
 
-*</>Technologies*
+# 🎨 Rebranding in Progress
 
-<img width="35" height="35" src="https://img.icons8.com/fluency/48/laravel.png" alt="laravel"/> <img width="35" height="35" src="https://img.icons8.com/fluency/48/typescript--v1.png" alt="typescript--v1"/> <img width="35" height="35" src="https://img.icons8.com/fluency/48/nextjs.png" alt="nextjs"/> <img width="35" height="35" src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/24/external-react-a-javascript-library-for-building-user-interfaces-logo-color-tal-revivo.png" alt="external-react-a-javascript-library-for-building-user-interfaces-logo-color-tal-revivo"/> <img width="35" height="35" src="https://img.icons8.com/fluency/48/docker.png" alt="docker"/> <img width="35" height="35" src="https://img.icons8.com/color/50/nodejs.png" alt="nodejs"/> <img width="35" height="35" src="https://img.icons8.com/color/50/postgreesql.png" alt="postgreesql"/> <img width="35" height="35" src="https://img.icons8.com/color/50/javascript--v1.png" alt="javascript--v1"/>
+> **Project status:** Visual and strategic transformation underway.
 
-*💻Workflow*
-
-<img width="35" height="35" src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/24/external-jira-a-proprietary-issue-tracking-product-developed-by-atlassian-that-allows-bug-tracking-logo-shadow-tal-revivo.png" alt="external-jira-a-proprietary-issue-tracking-product-developed-by-atlassian-that-allows-bug-tracking-logo-shadow-tal-revivo"/> <img width="35" height="35" src="https://img.icons8.com/color/50/git.png" alt="git"/> <img width="35" height="35" src="https://img.icons8.com/color/50/google-keep.png" alt="google-keep"/>
-
-# What am I studying?
-
-▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰░░░  75% Clean architecture  
-▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰░░░  75% Node js   
-░░  0% Abstrac Factory pattern  
-▰▰▰▰▰▰▰▰▰▰▰▰▰▰░░░  60% Jest   
+---
