@@ -16,7 +16,7 @@ interface Developer {
 Emperie Nails Telegram Bot -> [See repository](https://github.com/AleksanderProkhorenkoDEV/Emperie-ClassBot) <br/>
 Productivity Dashboard -> [See repository](https://github.com/AleksanderProkhorenkoDEV/lit-productivity-dashboard) [demo](https://productivity-dashboard.aprokhorenko.dev/) <br/>
 Finance dashboard -> [See repository](https://github.com/AleksanderProkhorenkoDEV/cells-finance-dashboard) [demo](https://finance-dashboard.aprokhorenko.dev/) <br/>
-Bankleks -> [see repository](https://github.com/AleksanderProkhorenkoDEV/Bankleks) [demo](https://bankleks.aprokhorenko.dev/)
-Blog -> [see repository](https://github.com/AleksanderProkhorenkoDEV/blog) [demo](https://blog.aprokhorenko.dev/)
-Ai ticket clasifier -> [see repository] [demo](https://ticket-classifier.aprokhorenko.dev/)
+Bankleks -> [see repository](https://github.com/AleksanderProkhorenkoDEV/Bankleks) [demo](https://bankleks.aprokhorenko.dev/) <br/>
+Blog -> [see repository](https://github.com/AleksanderProkhorenkoDEV/blog) [demo](https://blog.aprokhorenko.dev/) <br/>
+Ai ticket clasifier -> [see repository] [demo](https://ticket-classifier.aprokhorenko.dev/) <br/>
 ---
