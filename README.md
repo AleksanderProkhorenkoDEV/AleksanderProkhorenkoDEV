@@ -18,5 +18,5 @@ Productivity Dashboard -> [See repository](https://github.com/AleksanderProkhore
 Finance dashboard -> [See repository](https://github.com/AleksanderProkhorenkoDEV/cells-finance-dashboard) [demo](https://finance-dashboard.aprokhorenko.dev/) <br/>
 Bankleks -> [see repository](https://github.com/AleksanderProkhorenkoDEV/Bankleks) [demo](https://bankleks.aprokhorenko.dev/) <br/>
 Blog -> [see repository](https://github.com/AleksanderProkhorenkoDEV/blog) [demo](https://blog.aprokhorenko.dev/) <br/>
-Ai ticket clasifier -> [see repository] [demo](https://ticket-classifier.aprokhorenko.dev/) <br/>
+Ai ticket clasifier -> [see repository](https://github.com/AleksanderProkhorenkoDEV/ai-ticked-classifier) [demo](https://ticket-classifier.aprokhorenko.dev/) <br/>
 ---
