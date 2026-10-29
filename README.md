@@ -19,4 +19,5 @@ Finance dashboard -> [See repository](https://github.com/AleksanderProkhorenkoDE
 Bankleks -> [see repository](https://github.com/AleksanderProkhorenkoDEV/Bankleks) [demo](https://bankleks.aprokhorenko.dev/) <br/>
 Blog -> [see repository](https://github.com/AleksanderProkhorenkoDEV/blog) [demo](https://blog.aprokhorenko.dev/) <br/>
 Ai ticket clasifier -> [see repository](https://github.com/AleksanderProkhorenkoDEV/ai-ticked-classifier) [demo](https://ticket-classifier.aprokhorenko.dev/) <br/>
+CV generator -> [see repository](https://github.com/AleksanderProkhorenkoDEV/CV-Generator)
 ---
